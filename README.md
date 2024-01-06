@@ -1,4 +1,12 @@
-### Hi there 👋
+## Welcome! 👋
+
+Old Github: https://github.com/andrey-krendzel/
+
+Full-stack developer, graduated BITE from Haaga-Helia. Worked in Elisa Prepaid Team. Currently working for TCS. 
+
+🔭 Proficient in: React, JS, Java, TS
+
+⚡ Other: DB Design, SQL, MongoDb, Linux, Kafka, React Native
 
 <!--
 **andrey-krendzel-new/andrey-krendzel-new** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
