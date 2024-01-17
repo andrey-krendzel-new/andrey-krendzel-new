@@ -6,7 +6,7 @@ Full-stack developer, graduated BITE from Haaga-Helia. Worked in Elisa Prepaid T
 
 🔭 Proficient in: React, JS, Java, TS
 
-⚡ Other: DB Design, SQL, MongoDb, Linux, Kafka, React Native
+⚡ Other: DB Design, SQL, MongoDB, Linux, Kafka, React Native
 
 <!--
 **andrey-krendzel-new/andrey-krendzel-new** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
