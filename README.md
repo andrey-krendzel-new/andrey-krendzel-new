@@ -4,9 +4,11 @@ Old Github: https://github.com/andrey-krendzel/
 
 Full-stack developer, graduated BITE from Haaga-Helia. Worked in Elisa Prepaid Team. Currently working for TCS. 
 
-🔭 Proficient in: React, JS, Java, TS
+🔭 Proficient in: JavaScript, Java, TypeScript, React
 
-⚡ Other: DB Design, SQL, MongoDB, Linux, Kafka, React Native
+⚡ Other: Proficient in SQL, basics in Database Design, MongoDB, Linux, Kafka, React Native, AWS, Clojure. Scala
+
+Skilled in working in Scrum-like teams, using Agile methodoly. I.e. daily meetings, retros, planning, kanban boards. 
 
 <!--
 **andrey-krendzel-new/andrey-krendzel-new** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
