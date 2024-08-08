@@ -1,7 +1,5 @@
 ## Welcome! 👋
 
-Please Check! 2020-2023 contributions: https://github.com/andrey-krendzel/
-
 Full-stack developer, graduated BITE from Haaga-Helia. Worked in Elisa Prepaid Team. Currently working for TCS. 
 
 🔭 Proficient in: React, Java, TypeScript
