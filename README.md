@@ -4,13 +4,13 @@ Please Check! 2020-2023 contributions: https://github.com/andrey-krendzel/
 
 Full-stack developer, graduated BITE from Haaga-Helia. Worked in Elisa Prepaid Team. Currently working for TCS. 
 
-🔭 Proficient in: JavaScript, Java, TypeScript, React
+🔭 Proficient in: React, Java, TypeScript
 
-🌱 AWS Cloud Certified: https://www.credly.com/badges/463f5e37-3faf-466b-b6a9-fcce7bb1243f/linked_in?t=sbgu33
+😄 Experienced in working in Scrum: JIRA, Daily meetings, Retro, Tickets. 
 
-⚡ Other: Proficient in SQL, basics in Database Design, MongoDB, Linux, Kafka, React Native, AWS, Clojure. Scala
+🌱 Interested in Cloud & DevOps. AWS Cloud Certified: https://www.credly.com/badges/463f5e37-3faf-466b-b6a9-fcce7bb1243f/linked_in?t=sbgu33
 
-Skilled in working in Scrum-like teams, using Agile methodoly. I.e. daily meetings, retros, planning, kanban boards. 
+⚡ Other: SQL, basics in Database Design, MongoDB, Linux, Kafka, React Native, AWS, Clojure. Scala
 
 <!--
 **andrey-krendzel-new/andrey-krendzel-new** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
