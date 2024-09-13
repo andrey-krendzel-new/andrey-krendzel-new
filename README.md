@@ -11,6 +11,7 @@ Full-stack developer, graduated BITE from Haaga-Helia. Worked in Elisa Prepaid T
 ⚡ Other: SQL, basics in Database Design, MongoDB, Linux, Kafka, React Native
 
 AWS Certification: https://www.credly.com/badges/463f5e37-3faf-466b-b6a9-fcce7bb1243f/linked_in?t=sbgu33
+GCP Certification: https://www.credly.com/badges/2d2ad224-731b-4065-a4d9-b6a583558eaa/linked_in?t=sjmamf
 
 <!--
 **andrey-krendzel-new/andrey-krendzel-new** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
