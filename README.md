@@ -3,18 +3,31 @@
 Full-stack developer. Graduated from Haaga-Helia. Worked in Elisa, Huawei, Wolt. Currently working for Tata Consultancy Services.
 
 React / React Native: ★★★☆☆
+
 Google Cloud Platform: ★★★☆☆
+
 AWS: ★★★☆☆
+
 Java / Spring Boot: ★★☆☆☆
+
 Git, CI/CD: ★★★☆☆
+
 Kubernetes, Docker: ★★☆☆☆
+
 Linux / UNIX: ★★★☆☆
+
 Typescript / JavaScript: ★★☆☆☆
+
 Node.js: ★★☆☆☆
+
 Next.js: ★★☆☆☆
+
 GraphQL: ★★☆☆☆
+
 Terraform: ★☆☆☆☆
+
 PostgreSQL/MySQL/Relational Databases: ★★☆☆☆
+
 SUPOn turvallisuusselvitys tehty. YKI-testi tehty.
 
 AWS Certification: https://www.credly.com/badges/463f5e37-3faf-466b-b6a9-fcce7bb1243f/linked_in?t=sbgu33
