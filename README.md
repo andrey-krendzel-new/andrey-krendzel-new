@@ -3,22 +3,18 @@
 Full-stack developer. Graduated from Haaga-Helia. Worked in Elisa, Huawei, Wolt, Tata Consultancy Services.
 
 React / React Native  
-Javascript/Typescript
-Next.js
-Node.js
-HTML / CSS
-Java / Spring Boot
-SQL | MongoDB
-Git, Github Actions
-Agile, Scrum, Kanban, Trello
-AWS, GCP cloud
-Kubernetes, Docker
-Terraform
-AI training, generative AI
-Sales, Shopify and F2F
-Content writing, copywriting,
-translation, transcription, editing
-Virtual assistant / Data Entry
+Javascript/Typescript  
+Next.js  
+Node.js  
+HTML / CSS  
+Java / Spring Boot  
+SQL | MongoDB  
+Git, Github Actions  
+Agile, Scrum, Kanban, Trello  
+AWS, GCP cloud  
+Kubernetes, Docker  
+Terraform  
+AI training, generative AI  
 
 SUPOn turvallisuusselvitys tehty. YKI-testi tehty.
 
