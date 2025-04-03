@@ -2,7 +2,7 @@
 
 Full-stack developer. Graduated from Haaga-Helia. Worked in Elisa, Huawei, Wolt, Tata Consultancy Services.
 
-React / React Native
+React / React Native  
 Javascript/Typescript
 Next.js
 Node.js
