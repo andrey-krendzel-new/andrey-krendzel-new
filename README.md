@@ -16,8 +16,6 @@ Kubernetes, Docker
 Terraform  
 AI training, generative AI  
 
-SUPOn turvallisuusselvitys tehty. YKI-testi tehty.
-
 AWS Certification: https://www.credly.com/badges/463f5e37-3faf-466b-b6a9-fcce7bb1243f/linked_in?t=sbgu33
 
 GCP Certification: https://www.credly.com/badges/2d2ad224-731b-4065-a4d9-b6a583558eaa/linked_in?t=sjmamf
